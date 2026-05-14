@@ -100,6 +100,12 @@ database.sql
 6. Right-click on `index.php`
 7. Click **"PHP Server: Serve Project"**
 
+## ! Note :
+you can access admin dashboard with these creadentials :
+email: admin@gmail.com
+password: admin123
+
+
 ## 📸 Screenshots
 
 ### 🏠 Home Page
