@@ -122,7 +122,7 @@ closeConnection($conn);
                 <div class="feature-item">
                     <i class="fas fa-check-circle"></i>
                     <h3>Expertise</h3>
-                    <p>More than 15 years of experience in tourism</p>
+                    <p>More than 15 minutes of experience in tourism</p>
                 </div>
                 <div class="feature-item">
                     <i class="fas fa-dollar-sign"></i>
@@ -132,7 +132,7 @@ closeConnection($conn);
                 <div class="feature-item">
                     <i class="fas fa-headset"></i>
                     <h3>24/7 Support</h3>
-                    <p>Assistance available at any time</p>
+                    <p>Assistance available at any time (pinky promise)</p>
                 </div>
                 <div class="feature-item">
                     <i class="fas fa-shield-alt"></i>
