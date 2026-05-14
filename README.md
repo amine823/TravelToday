@@ -122,7 +122,7 @@ database.sql
   <img src="screenshots/trav4.png" />
 </p>
 
-### 🏝️ Destinations Page
+### 🏝️ Login Page
 <p align="center">
   <img src="screenshots/trav5.png" />
 </p>
