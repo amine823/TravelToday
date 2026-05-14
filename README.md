@@ -103,19 +103,22 @@ database.sql
 ## 📸 Screenshots
 
 ### Home Page
-![Home]()
+![Home](screenshots/trav1)
 
 ### Destinations Page
-![Destinations]()
+![Destinations](screenshots/trav2)
 
 ### Reservations Page
-![Reservations]()
+![Reservations](screenshots/trav3)
 
 ### Contact Page
-![Contact]()
+![Contact](screenshots/trav4)
+
+### Login Page
+![Contact](screenshots/trav5)
 
 ### Admin dashboard
-![Admin]()
+![Admin](screenshots/trav6)
 
 ## 👨‍💻 Author
 
