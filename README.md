@@ -43,6 +43,8 @@ This is a full-stack travel agency platform that allows users to browse destinat
 ---
 
 ## 📁 Project Structure
+
+```
 TravelToday/
 │
 ├── admin/
@@ -72,6 +74,7 @@ TravelToday/
 │
 │── screenshots/
 └── README.md
+```
 
 ---
 
