@@ -104,32 +104,32 @@ database.sql
 
 ### 🏠 Home Page
 <p align="center">
-  <img src="screenshots/trav1.png" width="45%" />
+  <img src="screenshots/trav1.png" />
 </p>
 
 ### 🏝️ Destinations Page
 <p align="center">
-  <img src="screenshots/trav2.png" width="45%" />
+  <img src="screenshots/trav2.png" />
 </p>
 
 ### 🏝️ Reservations Page
 <p align="center">
-  <img src="screenshots/trav3.png" width="45%" />
+  <img src="screenshots/trav3.png" />
 </p>
 
 ### 🏝️ Contacts Page
 <p align="center">
-  <img src="screenshots/trav4.png" width="45%" />
+  <img src="screenshots/trav4.png" />
 </p>
 
 ### 🏝️ Destinations Page
 <p align="center">
-  <img src="screenshots/trav5.png" width="45%" />
+  <img src="screenshots/trav5.png" />
 </p>
 
 ### 🏝️ Admin Dashboard
 <p align="center">
-  <img src="screenshots/trav6.png" width="45%" />
+  <img src="screenshots/trav6.png" />
 </p>
 
 ## 👨‍💻 Author
