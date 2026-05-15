@@ -8,6 +8,20 @@ TravelToday is a modern and responsive travel agency web application designed to
 
 This is a full-stack travel agency platform that allows users to browse destinations, book reservations, and create accounts with authentication features for both users and administrators. It also includes an admin dashboard with statistics and full CRUD management of destinations, users, reservations, and contact messages, providing complete control over the platform’s operations.
 
+## 📑 Table of Contents
+
+- [🌍 Overview](#-overview)
+- [🛠️ Tech Stack](#️-tech-stack)
+- [✨ Features](#-features)
+  - [👤 User Side](#-user-side)
+  - [🛠️ Admin Side](#️-admin-side)
+- [📁 Project Structure](#-project-structure)
+- [🗄️ Database Setup](#️-database-setup)
+- [🚀 How to Run Locally](#-how-to-run-locally)
+- [📸 Screenshots](#-screenshots)
+- [👨‍💻 Author](#-author)
+- [📌 Note](#-note)
+
 ---
 
 ## 🛠️ Tech Stack
